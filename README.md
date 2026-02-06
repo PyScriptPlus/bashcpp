@@ -1,1 +1,1 @@
-# bashcpp
+# You can only run it on Linux.
